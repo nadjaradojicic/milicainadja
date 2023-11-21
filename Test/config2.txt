@@ -1,0 +1,9 @@
+-1 Datum MM/dd/yyyy HH:mm
+-2 10.2.2023 6.20.2024
+-3 Radno_vreme 9:0-21:0
+1 Pocetak pocetak
+2 Kraj kraj
+0 Ucionica prostorija
+4 Profesor dodaci_termina
+3 Predmet dodaci_termina
+5 Racunar dodaci_termina

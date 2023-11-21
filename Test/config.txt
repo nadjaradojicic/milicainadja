@@ -1,0 +1,11 @@
+-1 Datum MM/dd/yyyy HH:mm
+-2 Dani PON UTO SRE CET PET SUB NED
+-3 Radno_vreme 9:15-21:0
+-4 Trajanje_rasporeda 3.10.2023-1.12.2023.
+0 Predmet dodaci_termina
+1 Tip dodaci_termina
+2 Nastavnik dodaci_termina
+3 Grupe dodaci_termina
+4 Dan dan
+5 Termin vreme
+6 Učionica prostorija

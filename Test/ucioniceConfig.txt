@@ -1,0 +1,3 @@
+0 Naziv
+1 Kapacitet
+2 Racunari

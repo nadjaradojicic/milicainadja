@@ -1,0 +1,58 @@
+[
+ {
+   "Ucionica": "RAF1",
+   "Pocetak": "10/30/2023 09:15",
+   "Kraj": "10/29/2023 11:15",
+   "Predmet": "UUP",
+   "Profesor": "Mladen Jovanovic",
+   "Racunar": "DA"
+ },
+ {
+   "Ucionica": "RAF1",
+   "Pocetak": "10/30/2023 12:00",
+   "Kraj": "10/29/2023 14:00",
+   "Predmet": "UUP",
+   "Profesor": "Mladen Jovanovic",
+   "Racunar": "DA"
+ },
+ {
+   "Ucionica": "RAF2",
+   "Pocetak": "10/30/2023 09:30",
+   "Kraj": "10/29/2023 12:30",
+   "Predmet": "SK",
+   "Profesor": "Bojana Dimic Surla",
+   "Racunar": "NE"
+ },
+ {
+   "Ucionica": "RAF03",
+   "Pocetak": "10/30/2023 17:00",
+   "Kraj": "10/29/2023 19:30",
+   "Predmet": "SK",
+   "Profesor": "Bojana Dimic Surla",
+   "Racunar": "NE"
+ },
+ {
+   "Ucionica": "RAF1",
+   "Pocetak": "04/29/2023 09:15",
+   "Kraj": "10/29/2023 11:15",
+   "Predmet": "UUP",
+   "Profesor": "Mladen Jovanovic",
+   "Racunar": "DA"
+ },
+ {
+   "Ucionica": "RAF1",
+   "Pocetak": "04/29/2023 09:30",
+   "Kraj": "10/29/2023 12:30",
+   "Predmet": "SK",
+   "Profesor": "Bojana Dimic Surla",
+   "Racunar": "NE"
+ },
+ {
+   "Ucionica": "RAF20",
+   "Pocetak": "04/29/2023 09:15",
+   "Kraj": "10/29/2023 11:15",
+   "Predmet": "UUP",
+   "Profesor": "Mladen Jovanovic",
+   "Racunar": "DA"
+ }
+]
